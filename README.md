@@ -3,7 +3,7 @@ Insert theme to Power BI report to get pinned report colors.
 ![image](https://github.com/rifson/BIThemeDashboard/assets/10552516/d771ff7e-0355-4351-9d12-0da90ac6e71e)
 
 
-##Problem Background
+## Problem Background
 When creating a new Power BI from scratch it does not contain a theme that can be used in dashboards.
 This will result in not being able to select a theme when being pinned to dashboards.
 ![image](https://github.com/rifson/BIThemeDashboard/assets/10552516/0cbe6cac-9fc4-43ae-b89f-c0c02e5dc9da)
@@ -15,7 +15,7 @@ Below is an example of tile color without theme in report.
 What we want is a tile that is white like the one below:
 ![image](https://github.com/rifson/BIThemeDashboard/assets/10552516/471f25f8-b7d4-4352-bee0-1469937c5588)
 
-##How To Solve It
+## How To Solve It
 Open the Power BI report wanted to solve the issue for.
 Download ThemeBIreporting.json here from GitHub.
 
